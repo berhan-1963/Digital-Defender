@@ -221,4 +221,4 @@ Digital Defender is offered as a full free version with all features and updates
 Don't compromise on your security! Download Digital Defender now for a complete and safe protection solution for your Windows system.
 
 ---
-**Last updated:** 2026-10-27 21:42:38 UTC
+**Last updated:** 2026-10-28 00:54:11 UTC
